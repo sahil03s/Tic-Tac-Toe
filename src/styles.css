@@ -1,0 +1,27 @@
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.square{
+    background-color: #F9E795;
+    padding: 3%;
+    border: 1px solid #94a6eb;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    height: 100px;
+    width: 100px;
+}
+
+.button{
+    margin: 1.5%;
+    padding: 1%;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #F9E795;
+    
+}
